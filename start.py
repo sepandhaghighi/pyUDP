@@ -1,7 +1,12 @@
 import os
 import subprocess
+from threading import Thread
 cur_direction=os.getcwd()
-if __name__=="__main__":
+def func1():
     subprocess.Popen("py "+cur_direction+"/"+"send.py")
+def func2():
     subprocess.Popen("py "+cur_direction+"\\"+"recv.py")
+if __name__=="__main__":
+    Thread(target=func1()).start()
+    Thread(target=func2()).start()
 
