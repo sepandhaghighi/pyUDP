@@ -1,5 +1,6 @@
 import os
 import subprocess
+import sys
 from threading import Thread
 cur_direction=os.getcwd()
 def func1():
@@ -9,4 +10,5 @@ def func2():
 if __name__=="__main__":
     Thread(target=func1()).start()
     Thread(target=func2()).start()
+    sys.exit()
 

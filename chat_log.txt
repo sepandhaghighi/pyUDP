@@ -5,3 +5,56 @@ You : asjdlkajskdl
 You : lajsdlkjaslkdjasd
 You : aslkjdlkajsdlkasd
 You : exit
+exitdffffff
+exitdffffff
+exitdffffff
+exitdffffff
+exitdffffff
+exitdffffff
+exitdffffff
+exitdffffff
+exitdffffff
+exitdffffff
+exitdffffff
+exit
+You : asjdklasjd
+You : jalksdjalksdj
+You : klasjdlaskjdl
+You : jlaksjdlkasjldk
+You : jlasjdlkasjdkl
+You : jkaslkdjalskdjaslk
+You : Terminate
+You : exit
+exit		2016-02-01 19:02:39.465379
+You : salam		2016-02-01 19:03:33.359764
+You : salam		2016-02-01 19:03:34.911058
+You : salam		2016-02-01 19:03:36.924018
+You : salam		2016-02-01 19:04:18.551293
+You : salam		2016-02-01 19:04:19.494680
+You : salam		2016-02-01 19:04:20.642371
+You : askjdlalskjds		2016-02-01 19:04:21.709951
+You : jasjkdasjdaslk		2016-02-01 19:04:22.888669
+You : alsjdlkasjlajskd		2016-02-01 19:04:24.139510
+You : exit		2016-02-01 19:04:25.441423
+hhhhh		2016-02-01 19:03:16.031287
+hhhhh		2016-02-01 19:03:22.022095
+hhhhh		2016-02-01 19:03:22.169318
+hhhhh		2016-02-01 19:03:22.295497
+hhhhh		2016-02-01 19:03:22.419687
+hhhhh		2016-02-01 19:03:22.552883
+hhhhh		2016-02-01 19:03:22.699091
+hhhhh		2016-02-01 19:03:22.846308
+hhhhh		2016-02-01 19:03:22.990520
+hhhhh		2016-02-01 19:03:23.095680
+hhhhh		2016-02-01 19:03:23.209849
+hhhhh		2016-02-01 19:03:23.384098
+hhhhh		2016-02-01 19:03:23.532312
+hhhhh		2016-02-01 19:03:23.662504
+hhhhh		2016-02-01 19:03:23.829752
+hhhhh		2016-02-01 19:03:23.950931
+hhhhh		2016-02-01 19:03:24.111167
+hhhhh		2016-02-01 19:03:24.251377
+hhhhh		2016-02-01 19:03:24.370549
+hhhhh		2016-02-01 19:03:24.507751
+exit\n		2016-02-01 19:03:24.566843
+exit		2016-02-01 19:04:32.093207
